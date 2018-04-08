@@ -1,5 +1,6 @@
-# pragmaticai-gcp
-Pragmatic AI solutions on GCP
+# pragmaticai gcp
+
+[Chapter 4 from Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
 
 ## Solutions on GCP
 
